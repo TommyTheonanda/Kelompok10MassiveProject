@@ -1,37 +1,50 @@
-![Markdown-badge-kohasummons-stripped-image](https://www.streebo.com/wp-content/themes/streebo/images/Chatbot-with-IBM-Watson/Why-should-you-develop-a-Chatbot-with-IBM-Watson-1.png)
 
-# Chatbot "Vanka" KontrakCepat 🚀🚀
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://drive.google.com/uc?export=view&id=1fTUyZ-oGF5RM7soIQlG9N7RrQXxX4b5f" width="400" height"400">
+  </a>
+</p>
+
+# 🤖 Chatbot "Vanka" KontrakCepat 
 
 Temukan Kontrakan Impianmu dengan KontrakCepat: Cepat, Mudah, dan Sesuai Keinginanmu!🔍🏠
+## 💡 Idea Background
 
-### Landing Page
-Membuat Chatbot "Vanka" Untuk Aplikasi KontrakCepat
-
-![](https://www.chatbot.com/hero-widget-mobile.29e0eea6179128929e8a7d9428cc3c057828c51a3c3c4588b1074514dac553d4.png)
 ### 1. Theme
-Tema : Membuat Chatbot "Vanka" Untuk Aplikasi KontrakCepat
-
+Tema : Kontrakan Rumah di daerah Jakarta dan Jabodetabek
 
 ### 2. Problem
-Masalah : Susahnya pelanggan untuk mengakses informasi kontrakan 
+Masalah : Susahnya mencari Kontrakan yang sesuai dengan keinginan Pengguna
 
 ### 3. Solution
-Solusi : Membuat model Machine Learning yang dapat memprediksi cuaca dengan akurat. Ketiga poin ini bisa dibuat agak panjang dibandingkan contoh ini.
+Solusi : Membuat Chatbot agar dapat menemukan kontrakan dengan cepat, mudah, dan sesuai keinginan
 
-## Dataset and Algorithm
+## 📱 Dataset and Algorithm
 
 ### 1. Dataset
-- Data Collection <br />
-Kami menemukan data kami di Kaggle.
-- Data Cleaning <br />
-Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang belum dibersihkan dan yang sudah: 
+- Data Collection      
+Kami mencari Data di berbagai situs, seperti OLX, Facebook, dan lain <br />
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![OLX](https://img.shields.io/badge/OLX-%23E20000.svg?style=for-the-badge&logo=OLX&logoColor=white)
 
-Poin soal dataset boleh ditambahkan sesuai kebutuhan.
+- Data Cleaning <br />
+Kami menggunakan Microsoft Excel untuk membersihkan data. <br />
+ ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<br>
+Berikut adalah data yang telah di Cleaning:  <br />
+<img src="https://drive.google.com/uc?export=view&id=1XXUxehZmTAvyY0A_WGqUD46hPCTXPGro">
+
+
+
+
+
 
 ### 2. Algorithm
 
 - Framework <br />
-Kami menggunakan TensorFlow dan Keras.
+![IBM Cloud Badge](https://img.shields.io/badge/IBM%20Cloud-%230077B5.svg?style=for-the-badge&logo=IBM&logoColor=white)
+![Watson Assistant Badge](https://img.shields.io/badge/Watson%20Assistant-%236B3EFA.svg?style=for-the-badge&logo=IBMWatson&logoColor=white)
+
 
 - Pembangunan Model <br />
 Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
@@ -54,7 +67,8 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 ## Conclusion
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
-## Anggota Kelompok 👥
+
+## 👥 Anggota Kelompok 
 
 <table>
   <tbody>
