@@ -6,13 +6,13 @@
 - Said M. Razali (Data Engineer)
 - Tsaqif Luthfan (ML Engineer)
 - Tommy Theonanda (ML Ops)
-## Idea Background
+## Massive Project
 
 ### 1. Theme
-Tema : Cuaca dan Iklim
+Tema : Membuat Chatbot "Vanka" Untuk Aplikasi KontrakCepat
 
 ### 2. Problem
-Masalah : Prediksi Cuaca yang tidak akurat
+Masalah : Susahnya pelanggan untuk mengakses informasi kontrakan 
 
 ### 3. Solution
 Solusi : Membuat model Machine Learning yang dapat memprediksi cuaca dengan akurat. Ketiga poin ini bisa dibuat agak panjang dibandingkan contoh ini.
