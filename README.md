@@ -79,7 +79,7 @@ Kami menggunakan Watson Studio dari IBM Cloud, dimana ada fitur yang bernama Aut
 - Silahkan masukkan dataset yang ingin dilatih atau melakukan training data
 <img src="https://drive.google.com/uc?export=view&id=1HKtW1q9MITQuP16OWcPy_ktCx9lf8gHe">
 
-- Setelah memasukkan dataset, maka akan keluar tampilan ini. Disini saya Memilih No untuk Time Series Analysis, dan Kolom yang Diprediksi adalah Disewakan Selama. Setelah sudah, siahkan Run Experiment
+- Setelah memasukkan dataset, maka akan keluar tampilan ini. Disini saya Memilih No untuk Time Series Analysis, dan Kolom yang Diprediksi adalah Disewakan Selama. Setelah sudah, silahkan Run Experiment
 <img src="https://drive.google.com/uc?export=view&id=137Dn7PpF-K7pcD5V9zn0yqsHSYm0girn">
 
 - Nah Disini akan keluar Hasil Experiment Training data dan Pipeline sendiri yang terbaik dalam men-train data
