@@ -126,8 +126,8 @@ Disini kami menggunakan layanan dari IBM Cloud, yaitu Watson Assistant untuk mem
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><img src="https://drive.google.com/uc?export=view&id=19jZbbzUOYC360OPEq0bVboIpcLwViYV0" width="100px;" height="200px"/><br /><b>M. Farhan Ali Irfani</b></a><br /><b>Design Researcher</b></a></td>
-     <td align="center" valign="top" width="14.28%"><img src="https://drive.google.com/uc?export=view&id=146jnultADZrjRzQI13RnjF3gTsDY_855" width="200px;"/><br /><b>Said M. Razali</b></a><br /><b>Data Engineer</b></a></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://drive.google.com/uc?export=view&id=1Z73pR0_hJCZZLiPyr7AsMvMXR3lExwQD" width="200px;"/><br /><b>M. Farhan Ali Irfani</b></a><br /><b>Design Researcher</b></a></td>
+     <td align="center" valign="top" width="14.28%"><img src="https://drive.google.com/uc?export=view&id=1B7sj2eCbk9zH1IB6kB4RqAssiGXM3WQM" width="200px;"/><br /><b>Said M. Razali</b></a><br /><b>Data Engineer</b></a></td>
      <td align="center" valign="top" width="14.28%"><img src="https://media.licdn.com/dms/image/D4E03AQH5sK_AgmptvQ/profile-displayphoto-shrink_200_200/0/1689647671262?e=2147483647&v=beta&t=CI9g_NYOV_kBl_caJCJBxlXL8ujVfOIo6ZrpktFZuVo" width="200px;"/><br /><b>Tsaqif Luthfan</b></a><br /><b>ML Engineer</b></a></td>
      <td align="center" valign="top" width="14.28%"><img src="https://media.licdn.com/dms/image/D4E03AQGOtMGV1xJq9w/profile-displayphoto-shrink_200_200/0/1685003285464?e=2147483647&v=beta&t=PSae3hlRVZTvz2HMruH2fV218sQoTUkXd8Z8yOrj2UM" width="200px;"/><br /><b>Tommy Theonanda</b></a><br /><b>ML Ops</b></a></td>
     </tr>
