@@ -114,7 +114,7 @@ Berikut adalah Tampilan Web  <br />
 
 <br>
 Berikut adalah Tampilan Mobile  <br />
-<img src="https://drive.google.com/uc?export=download&id=1-9U8wCe0wiSMoq4VxQyh-mwHcsdvcfun">
+<img src="https://drive.google.com/uc?export=view&id=1ow4jGacKSzOPhmUjAZopoyhm7N0hz3ci">
 
 ## 📋 Conclusion
 "Vanka", Chatbot andalan KontrakCepat, siap membantu Anda menemukan kontrakan impian dengan mudah dan cepat. Vanka siap untuk membantu anda menyediakan informasi terkini seputar kontrakan sesuai dengan keinginan dan kebutuhan anda tentunya. Tentu kita juga bisa mengetahui layanan-layanan dan informasi lainnya tentang Aplikasi KontrakCepat
