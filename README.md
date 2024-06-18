@@ -48,7 +48,7 @@ Kami menggunakan Watson Assistant dari IBM Cloud untuk membuat flow dari Chatbot
 
 
 - Pembangunan Model <br />
-Kami menggunakan Watson Studio dari IBM Cloud, dimana ada fitur yang bernama AutoAI untuk melatih data dan training data.
+Kami menggunakan Watson Studio dari IBM Cloud, dimana ada fitur yang bernama AutoAI untuk melatih data dan training data
 ![IBM Cloud Badge](https://img.shields.io/badge/IBM%20Cloud-%230077B5.svg?style=for-the-badge&logo=IBM&logoColor=white)
 ![Watson Studio Badge](https://img.shields.io/badge/Watson%20Studio-%234CAF50.svg?style=for-the-badge&logo=IBM&logoColor=white)
 
@@ -61,7 +61,7 @@ Kami menggunakan Watson Studio dari IBM Cloud, dimana ada fitur yang bernama Aut
 - Jika sudah membuat service nya, silahkan di launch Watson Studionya 
 <img src="https://drive.google.com/uc?export=view&id=1uInSVCCEQbLYcLBb6eVgmQzt3Fo6ygVP">
 
-- Jika sudah launch, maka akan muncul tampilan seperti ini.
+- Jika sudah launch, maka akan muncul tampilan seperti ini
 <img src="https://drive.google.com/uc?export=view&id=1rltnfEuLnWk-b37Q8NHp1cgY8tdZh-Fm">
 
 - Silahkan membuat Project di sini, jika sudah, silahkan buka Projectnya 
