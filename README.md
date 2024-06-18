@@ -86,7 +86,7 @@ Kami menggunakan Watson Studio dari IBM Cloud, dimana ada fitur yang bernama Aut
 <img src="https://drive.google.com/uc?export=view&id=1fPaBOlQi54L_qxHEVeY0sPTlIaKHqGF5">
 
 
-## Prototype
+## 🤖 Prototype
 <img src="https://drive.google.com/uc?export=view&id=1nKUtMACImniXqdYGbJSPxl6ElTir1ZJM"> <br />
 Kami menggunakan Watson Assistant dari IBM Cloud untuk membuat flow dari Chatbot yang dapat menjawab pertanyaan pengguna <br />
 ![IBM Cloud Badge](https://img.shields.io/badge/IBM%20Cloud-%230077B5.svg?style=for-the-badge&logo=IBM&logoColor=white)
@@ -95,7 +95,7 @@ Kami menggunakan Watson Assistant dari IBM Cloud untuk membuat flow dari Chatbot
 
 
 
-## Deployment dan Integrasi
+## 🛠️ Deployment dan Integrasi
 Disini kami berhasil untuk melakukan Deploy dan Integrasi di Platform Web dan Mobile, tentu ini juga hasil kolaborasi dari Program Web dan Mobile Development <br />
 [![Web](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5)](https://github.com/username/repository)
 [![Mobile](https://img.shields.io/badge/Mobile-Development-green?style=for-the-badge&logo=android)](https://github.com/username/repository)
@@ -103,7 +103,7 @@ Disini kami berhasil untuk melakukan Deploy dan Integrasi di Platform Web dan Mo
 
 
 
-## Result
+## 🖥️ Result
 Disini kami berhasil untuk melakukan Deploy dan Integrasi di Platform Web dan Mobile, tentu ini juga hasil kolaborasi dari Program Web dan Mobile Development <br />
 [![Web](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5)](https://github.com/username/repository)
 [![Mobile](https://img.shields.io/badge/Mobile-Development-green?style=for-the-badge&logo=android)](https://github.com/username/repository)
@@ -116,7 +116,7 @@ Berikut adalah Tampilan Web  <br />
 Berikut adalah Tampilan Mobile  <br />
 <img src="https://drive.google.com/uc?export=download&id=1-9U8wCe0wiSMoq4VxQyh-mwHcsdvcfun">
 
-## Conclusion
+## 📋 Conclusion
 "Vanka", Chatbot andalan KontrakCepat, siap membantu Anda menemukan kontrakan impian dengan mudah dan cepat. Vanka siap untuk membantu anda menyediakan informasi terkini seputar kontrakan sesuai dengan keinginan dan kebutuhan anda tentunya. Tentu kita juga bisa mengetahui layanan-layanan dan informasi lainnya tentang Aplikasi KontrakCepat
 
 Disini kami menggunakan layanan dari IBM Cloud, yaitu Watson Assistant untuk membuat Chatbot dan Watson Studio untuk melatih dan training data. Watson Assistant digunakan untuk Chatbot dan dibuat dengan cara membuat flow dari chatbot itu sendiri agar dapat membantu menjawab pertanyaan pengguna. Sedangkan Watson Studio digunakan untuk melatih dan training data yang menggunakan fitur AutoAI yang dapat melatih data dengan pipeline dan algoritma terbaik
