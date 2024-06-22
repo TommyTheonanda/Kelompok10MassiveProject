@@ -55,39 +55,39 @@ Kami menggunakan Watson Studio dari IBM Cloud, dimana ada fitur yang bernama Aut
 
 ### Langkah-langkah Training Data di Watson Studio dengan AutoAI: 
 - Pastikan anda telah membuat service Watson Studio di IBM Cloud 
-<img src="https://drive.google.com/uc?export=view&id=1_GIcqlA3LtY96uRJvhvxoxP0PrORSfnH">
+<img src="https://drive.google.com/uc?export=view&id=1g_iW2ZHhmX3SCavJs51HWeXbtXO9-uLB">
 
 
 - Jika sudah membuat service nya, silahkan di launch Watson Studionya 
-<img src="https://drive.google.com/uc?export=view&id=1uInSVCCEQbLYcLBb6eVgmQzt3Fo6ygVP">
+<img src="https://drive.google.com/uc?export=view&id=19628x2iNy2dYs3gmOb7qVTtMBZNYqEuE">
 
 - Jika sudah launch, maka akan muncul tampilan seperti ini
-<img src="https://drive.google.com/uc?export=view&id=1rltnfEuLnWk-b37Q8NHp1cgY8tdZh-Fm">
+<img src="https://drive.google.com/uc?export=view&id=1rNCgtnVl1L_jjTq4gowCQqZ_-9u07L__">
 
 - Silahkan membuat Project di sini, jika sudah, silahkan buka Projectnya 
-<img src="https://drive.google.com/uc?export=view&id=1lLIKfL-uqcqgPCMs7ib47NCjbX9yTje0">
+<img src="https://drive.google.com/uc?export=view&id=1yLZkueAdYvt2YpoC9qRWUyWMn9GdGCLE">
 
 - Ini adalah tampilan dari Project yang telah dibuat, silahkan tekan New Asset untuk buat Asset baru
-<img src="https://drive.google.com/uc?export=view&id=1DeCgBmKVaKaBT_SJnx8C-8oPic4epLAy">
+<img src="https://drive.google.com/uc?export=view&id=1m8TRXWDl70pQtn3UtnV6pr_g-eRzfGwa">
 
 - Akan keluar pilihan-pilihan yang ada, disini kita langsung pilih yang Build Machine Learning with AutoAI
-<img src="https://drive.google.com/uc?export=view&id=1qistraTPr_bxxmbpazeMDO0umbke08p-">
+<img src="https://drive.google.com/uc?export=view&id=1rvORDukbyHS8JYUrplTddiNPdxcYLyo3">
 
 - Disini bisa langsung diisi nama Projectnya dan Deskripsi, sisanya mengikuti setting default. Jika sudah, tekan tombol Create 
-<img src="https://drive.google.com/uc?export=view&id=1IVSgzSkypaMiGOSoU9LQKH1S1dxecah7">
+<img src="https://drive.google.com/uc?export=view&id=1hVsh_jFdz1jYb7MlbmsFPwJq-NIu4_bj">
 
 - Silahkan masukkan dataset yang ingin dilatih atau melakukan training data
-<img src="https://drive.google.com/uc?export=view&id=1HKtW1q9MITQuP16OWcPy_ktCx9lf8gHe">
+<img src="https://drive.google.com/uc?export=view&id=1TVo5RJ8H7100JlkQ6itggOYMOJuW6RrG">
 
 - Setelah memasukkan dataset, maka akan keluar tampilan ini. Disini saya Memilih No untuk Time Series Analysis, dan Kolom yang Diprediksi adalah Disewakan Selama. Setelah sudah, silahkan Run Experiment
-<img src="https://drive.google.com/uc?export=view&id=137Dn7PpF-K7pcD5V9zn0yqsHSYm0girn">
+<img src="https://drive.google.com/uc?export=view&id=1-s527T2tyB7HHB-OerM_aDjlgtZQu2kI">
 
 - Nah Disini akan keluar Hasil Experiment Training data dan Pipeline sendiri yang terbaik dalam men-train data
-<img src="https://drive.google.com/uc?export=view&id=1fPaBOlQi54L_qxHEVeY0sPTlIaKHqGF5">
+<img src="https://drive.google.com/uc?export=view&id=1bM3jXBlCwxat6amm8zq-KhXAh0vHUh8N">
 
 
 ## 🤖 Prototype
-<img src="https://drive.google.com/uc?export=view&id=1nKUtMACImniXqdYGbJSPxl6ElTir1ZJM"> <br />
+<img src="https://drive.google.com/uc?export=view&id=1XjZF0lf3c--o4h4TaPLcQqKhAmBR85pt"> <br />
 Kami menggunakan Watson Assistant dari IBM Cloud untuk membuat flow dari Chatbot yang dapat menjawab pertanyaan pengguna <br />
 ![IBM Cloud Badge](https://img.shields.io/badge/IBM%20Cloud-%230077B5.svg?style=for-the-badge&logo=IBM&logoColor=white)
 ![Watson Assistant Badge](https://img.shields.io/badge/Watson%20Assistant-%236B3EFA.svg?style=for-the-badge&logo=IBMWatson&logoColor=white)
@@ -110,11 +110,11 @@ Disini kami berhasil untuk melakukan Deploy dan Integrasi di Platform Web dan Mo
 <br />
 <br />
 Berikut adalah Tampilan Web  <br />
-<img src="https://drive.google.com/uc?export=download&id=1Nivx71J8c86md0aHOJtK_KHVrM1vND5M">
+<img src="https://drive.google.com/uc?export=download&id=1y6cIXC7hvQU68ppiRXjksPsKe3sl7m89">
 
 <br>
 Berikut adalah Tampilan Mobile  <br />
-<img src="https://drive.google.com/uc?export=view&id=1ow4jGacKSzOPhmUjAZopoyhm7N0hz3ci">
+<img src="https://drive.google.com/uc?export=download&id=1KTaD1uEkkBaI6CNNYF0-GgZKh01CubAg">
 
 ## 📋 Conclusion
 "Vanka", Chatbot andalan KontrakCepat, siap membantu Anda menemukan kontrakan impian dengan mudah dan cepat. Vanka siap untuk membantu anda menyediakan informasi terkini seputar kontrakan sesuai dengan keinginan dan kebutuhan anda tentunya. Tentu kita juga bisa mengetahui layanan-layanan dan informasi lainnya tentang Aplikasi KontrakCepat
